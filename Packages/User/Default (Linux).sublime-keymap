@@ -1,0 +1,4 @@
+[
+    {"keys": ["ctrl+up"], "command": "move_by_paragraph", "args": {"forward": false}},
+    {"keys": ["ctrl+down"], "command": "move_by_paragraph", "args": {"forward": true}}
+]

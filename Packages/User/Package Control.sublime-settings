@@ -1,0 +1,17 @@
+{
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"Emmet",
+		"GitGutter",
+		"Jade",
+		"JSHint Gutter",
+		"Move By Paragraph",
+		"Move By Symbols",
+		"Quick File Move",
+		"Stylus",
+		"SublimeLinter",
+		"SublimeLinter-jsl",
+		"Terminal"
+	]
+}
